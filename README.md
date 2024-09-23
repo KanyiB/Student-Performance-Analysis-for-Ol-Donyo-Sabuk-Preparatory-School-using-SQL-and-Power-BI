@@ -8,6 +8,7 @@ Project Steps:
 •	Data Format Consistency: Standardized gender and ethnicity data using case statements
 •	Created a CTE view so as we can use the detailed format to query
 2. Exploratory Data Analysis (EDA):
+   
 I.	Which Gender Performs Better?
 o	Queried the dataset to compare GPA performance by gender. The findings suggest males performed better than females overall.
  
