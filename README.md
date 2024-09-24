@@ -38,7 +38,7 @@ VI.	Extracurricular Activities: Participation in extracurricular activities like
 
  
 
-Conclusion:
+Conclusion and Reccomendations
 1.	Absences are key to poor performance; the child should minimize it if possible.
 2.	If absences occur due to unavoidable circumstances, the parents should consider taking their child to tutoring as it helps the students perform better.
 3.	A lot of study time did not translate to high grades, so the students’ needs more quality time over quantity. 
